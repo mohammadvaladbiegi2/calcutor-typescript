@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2018",                                  
-    "module": "commonjs",                                
+    "module": "ES6",                                
     "rootDir": "./src",                                 
     "outDir": "./dist",                                   
     "esModuleInterop": true,                             
